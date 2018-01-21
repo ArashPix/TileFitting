@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\arash\downloads\tilefittingtest\tilefitter\tilefitter\tilefitter\csv.h(169): warning C4244: 'return': conversion from 'std::streamsize' to 'int', possible loss of data
+c:\users\arash\downloads\tilefittingtest\tilefitter\tilefitter\tilefitter\csv.h(185): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  TileFitter.vcxproj -> C:\Users\Arash\Downloads\TileFittingTest\TileFitter\TileFitter\Debug\TileFitter.exe
+  TileFitter.vcxproj -> C:\Users\Arash\Downloads\TileFittingTest\TileFitter\TileFitter\Debug\TileFitter.pdb (Full PDB)
